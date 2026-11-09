@@ -2,7 +2,7 @@
 
 ### What we want to analyze and the result:
 ##### 1. How is Indonesia's air quality from June 2024 until November 2026?
-###### Indonesia had 0 "Good" weeks out of 126, and about 87% of weeks were in the "Unhealthe for Sensitive Groups" category or worse. AQI reached Hazardous level (>300) in 4 weeks during September - October 2026.
+###### Indonesia had 0 "Good" weeks out of 126, and about 87% of weeks were in the "Unhealthy for Sensitive Groups" category or worse. AQI reached Hazardous level (>300) in 4 weeks during September - October 2026.
 ##### 2. Compared to other ASEAN countries, which position is Indonesia in? 
 ###### Indonesia ranks first (worst) with an average AQI of 138.4, compared with 57-113 for the other seven countries.
 ##### 3. How did Indonesia's September - October 2026 rise compare with other ASEAN countries?
